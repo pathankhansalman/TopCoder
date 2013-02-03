@@ -1,1 +1,0 @@
-This repository has solutions to all the 250 and 500 point problems to TopCoder SRMS Round II. (Incomplete. New SRMs added continously).
